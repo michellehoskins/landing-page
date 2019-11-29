@@ -1,3 +1,8 @@
+@import "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&display=swap";
+* {
+    font-family: 'Montserrat', sans-serif;
+
+}
 *{
     font-family: 'Lato', sans-serif;
 }
@@ -5,6 +10,7 @@ header{
     padding: 30px 20px;
     font-size: 14px;
     font-weight: 600;
+    margin-bottom: 50px;
 }
 header:after {
     content:"";
@@ -37,7 +43,7 @@ header .header-buttons{
     float: right;
 }
 header .header-buttons .blue-btn{
-    background: #4C44C1;
+    background: #6066F2;
     padding: 14px 46px;
     color: white;
     border-radius: 35px;
