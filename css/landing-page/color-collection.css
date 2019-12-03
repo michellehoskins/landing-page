@@ -142,3 +142,15 @@ background: linear-gradient(to bottom, rgba(234,136,114,1) 0%,rgba(199,209,92,1)
     float: left;
     width: 20%;
 }
+/*LAPTOPS DEVICES */
+@media only screen and (max-width: 1215px) {
+  
+}
+/*TABLET DEVICES */
+@media only screen and (max-width: 1023px) {
+  
+}
+/*MOBILE DEVICES */
+@media only screen and (max-width: 767px) {
+  
+}

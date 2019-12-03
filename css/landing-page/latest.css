@@ -235,3 +235,15 @@
     border-radius: 50px;
     text-transform: uppercase;
 }
+/*LAPTOPS DEVICES */
+@media only screen and (max-width: 1215px) {
+  
+}
+/*TABLET DEVICES */
+@media only screen and (max-width: 1023px) {
+  
+}
+/*MOBILE DEVICES */
+@media only screen and (max-width: 767px) {
+  
+}

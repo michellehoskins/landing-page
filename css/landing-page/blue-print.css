@@ -84,3 +84,16 @@ background: linear-gradient(135deg, rgba(76,68,193,1) 1%,rgba(125,185,232,1) 100
     text-transform: uppercase;
     text-decoration: none;
 }
+
+/*LAPTOPS DEVICES */
+@media only screen and (max-width: 1215px) {
+  
+}
+/*TABLET DEVICES */
+@media only screen and (max-width: 1023px) {
+  
+}
+/*MOBILE DEVICES */
+@media only screen and (max-width: 767px) {
+  
+}

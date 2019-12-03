@@ -43,3 +43,15 @@ footer .social-media li a{
     font-size: 2rem;
     opacity: 0.5;
 }
+/*LAPTOPS DEVICES */
+@media only screen and (max-width: 1215px) {
+  
+}
+/*TABLET DEVICES */
+@media only screen and (max-width: 1023px) {
+  
+}
+/*MOBILE DEVICES */
+@media only screen and (max-width: 767px) {
+  
+}
